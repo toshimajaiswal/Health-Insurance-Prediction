@@ -6,7 +6,7 @@
 
 A machine learning project to predict health insurance costs based on various personal and demographic factors. Using Random Forest Regressor, the model achieves 86% accuracy in predicting insurance charges.
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 The dataset contains information about health insurance beneficiaries, including their:
 - Age
@@ -19,7 +19,7 @@ The dataset contains information about health insurance beneficiaries, including
 
 Dataset Source: [Kaggle - Healthcare Insurance Dataset](https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance)
 
-## 🔍 Key Insights
+## Key Insights
 
 ### Distribution of Insurance Charges
 - Insurance charges show a right-skewed distribution
@@ -41,7 +41,7 @@ Dataset Source: [Kaggle - Healthcare Insurance Dataset](https://www.kaggle.com/d
 - The relationship appears to be more pronounced for smokers
 - Age-related increase is more gradual for non-smokers
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### Data Preprocessing
 - Label encoding for categorical variables (sex, smoker)
@@ -62,7 +62,7 @@ Dataset Source: [Kaggle - Healthcare Insurance Dataset](https://www.kaggle.com/d
 - Performance: 86% accuracy
 - Features: All preprocessed variables used in prediction
 
-## 🚀 Installation and Usage
+## Installation and Usage
 
 1. Clone the repository:
 ```bash
@@ -79,28 +79,26 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 jupyter notebook
 ```
 
-## 📈 Results and Performance
+## Results and Performance
 
 The Random Forest Regressor model achieved:
 - Accuracy Score: 86%
 - Capable of predicting insurance charges based on personal factors
 - Effectively captures non-linear relationships in the data
 
-## 👩‍💻 Author
+## Author
 
 **Toshima Jaiswal**
 - GitHub: [toshimajaiswal](https://github.com/toshimajaiswal)
 - LinkedIn: [Toshima Jaiswal](https://www.linkedin.com/in/toshimajaiswal/)
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Dataset provided by Kaggle
 - Inspiration from real-world insurance pricing challenges
 - Open-source community for various tools and libraries used
 
----
-⭐ Star this repository if you find it helpful!
