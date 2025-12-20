@@ -23,6 +23,13 @@ Health insurance costs depend on multiple personal and lifestyle factors. The go
 
 ---
 
+## 📊 Exploratory Data Analysis (EDA)
+Exploratory analysis was performed to understand feature distributions and relationships.
+Key insights include higher insurance costs for smokers and a strong correlation between BMI and charges.
+Detailed EDA and visualizations are available in the Jupyter notebook.
+
+---
+
 ## ⚙️ Tech Stack
 
 **Programming Language**
@@ -89,3 +96,4 @@ streamlit run app.py
 
 ## 🙌 Acknowledgements
 This project was built to understand the complete machine learning lifecycle, from model development to real-world deployment.
+
